@@ -1,4 +1,5 @@
 NAME: Ashwini Priya
+
 REG.NO: 212224040035
 
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
@@ -52,12 +53,12 @@ endmodule
 
 **RTL LOGIC FOR SISO Shift Register**
 
-![Screenshot 2025-05-12 182657](https://github.com/user-attachments/assets/b5969559-3d3b-4865-8302-2d23529260a9)
+![exp 10](https://github.com/user-attachments/assets/2d1c9b8e-85dc-4244-91e0-5bca4ca72ba9)
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot 2025-05-12 182715](https://github.com/user-attachments/assets/787d94dd-9249-4e96-943b-613593aea63c)
+![ex 10](https://github.com/user-attachments/assets/a50b46e2-109f-4cb3-ad12-b4e2a66095ae)
 
 
 **RESULTS**
